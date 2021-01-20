@@ -1,0 +1,16 @@
+C:\Users\Leandro\Desktop\Lista ex\bin\Debug\net5.0\Lista ex.exe
+C:\Users\Leandro\Desktop\Lista ex\bin\Debug\net5.0\Lista ex.deps.json
+C:\Users\Leandro\Desktop\Lista ex\bin\Debug\net5.0\Lista ex.runtimeconfig.json
+C:\Users\Leandro\Desktop\Lista ex\bin\Debug\net5.0\Lista ex.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\Lista ex\bin\Debug\net5.0\Lista ex.dll
+C:\Users\Leandro\Desktop\Lista ex\bin\Debug\net5.0\ref\Lista ex.dll
+C:\Users\Leandro\Desktop\Lista ex\bin\Debug\net5.0\Lista ex.pdb
+C:\Users\Leandro\Desktop\Lista ex\obj\Debug\net5.0\Lista ex.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\Lista ex\obj\Debug\net5.0\Lista ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\Lista ex\obj\Debug\net5.0\Lista ex.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\Lista ex\obj\Debug\net5.0\Lista ex.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\Lista ex\obj\Debug\net5.0\Lista ex.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\Lista ex\obj\Debug\net5.0\Lista ex.dll
+C:\Users\Leandro\Desktop\Lista ex\obj\Debug\net5.0\ref\Lista ex.dll
+C:\Users\Leandro\Desktop\Lista ex\obj\Debug\net5.0\Lista ex.pdb
+C:\Users\Leandro\Desktop\Lista ex\obj\Debug\net5.0\Lista ex.genruntimeconfig.cache
